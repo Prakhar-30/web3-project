@@ -1,1 +1,1 @@
-Creating  A smart contract form using wev3 applications abd technologies
+Creating  A smart contract form using web3 applications abd technologies
